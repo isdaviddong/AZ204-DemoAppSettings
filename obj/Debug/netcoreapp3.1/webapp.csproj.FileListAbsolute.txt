@@ -1,0 +1,75 @@
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.exe
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.deps.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.runtimeconfig.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.runtimeconfig.dev.json
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.dll
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.pdb
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.Views.dll
+Z:\blobdemo\az204\webapp\bin\Debug\netcoreapp3.1\webapp.Views.pdb
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.csprojAssemblyReference.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.AssemblyInfoInputs.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.AssemblyInfo.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.csproj.CoreCompileInputs.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.MvcApplicationPartsAssemblyInfo.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.RazorAssemblyInfo.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.RazorAssemblyInfo.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.TagHelpers.input.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.TagHelpers.output.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.RazorCoreGenerate.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.RazorTargetAssemblyInfo.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.RazorTargetAssemblyInfo.cs
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.Views.pdb
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\staticwebassets\webapp.StaticWebAssets.Manifest.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\staticwebassets\webapp.StaticWebAssets.xml
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.dll
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.pdb
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.genruntimeconfig.cache
+Z:\blobdemo\az204\webapp\obj\Debug\netcoreapp3.1\webapp.csproj.CopyComplete
+D:\New folder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.exe
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.deps.json
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.runtimeconfig.json
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.runtimeconfig.dev.json
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.dll
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.pdb
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.Views.dll
+D:\New folder\bin\Debug\netcoreapp3.1\webapp.Views.pdb
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.csproj.AssemblyReference.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.AssemblyInfoInputs.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.AssemblyInfo.cs
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.csproj.CoreCompileInputs.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.RazorAssemblyInfo.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.RazorAssemblyInfo.cs
+D:\New folder\obj\Debug\netcoreapp3.1\staticwebassets\webapp.StaticWebAssets.Manifest.cache
+D:\New folder\obj\Debug\netcoreapp3.1\staticwebassets\webapp.StaticWebAssets.xml
+D:\New folder\obj\Debug\netcoreapp3.1\scopedcss\bundle\webapp.styles.css
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.TagHelpers.input.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.TagHelpers.output.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.RazorCoreGenerate.cache
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.RazorTargetAssemblyInfo.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.RazorTargetAssemblyInfo.cs
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.Views.pdb
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.dll
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.pdb
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.genruntimeconfig.cache
+D:\New folder\obj\Debug\netcoreapp3.1\webapp.csproj.CopyComplete
